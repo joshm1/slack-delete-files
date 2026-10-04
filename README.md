@@ -1,3 +1,5 @@
+> **Archived 2026-10-04.** No longer maintained.
+
 # About
 
 Useful to delete old and/or large files from Slack.
